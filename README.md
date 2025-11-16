@@ -2,13 +2,14 @@
 <h3 align="center">Junior Developer | Passionate about learning and building simple applications & websites</h3>
 <p align="center">_______________________________________________</p>
 
-##About Me 😄
+## 😄 About Me 
 
 Hi I am junior developer who want to learn and improve my skills everyday. I am currently a student of NCC Education, where I am strengthening my foundation in computing and software development.
 - Currently improving my skills in **"JavaScript, C#, HTML5, CSS3, SQL"**
 - My Goal is to become **Full Stack Developer**
 
-##My Skills(🌱Still Learning)
+## 🌱 My Skills(Still Learning)
+
 **languages**
 
 <a href="https://www.javascript.com/" target="_blank">
@@ -20,8 +21,6 @@ Hi I am junior developer who want to learn and improve my skills everyday. I am 
 <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank">
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#" />
 </a>
-
----
 
 **Tools & Technologies**
 
@@ -38,8 +37,6 @@ Hi I am junior developer who want to learn and improve my skills everyday. I am 
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
----
-
 **Databases**
 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
@@ -49,30 +46,16 @@ Hi I am junior developer who want to learn and improve my skills everyday. I am 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
 </a>
 
-##Current Projects 🔭
+## 🔭 Current Projects 
 - 🏦 **Banking App (C# WinForms)** – Login, transactions, CRUD  
 - 📚 **Edu Hub** – An online learning platform (assignment project)  
 - 🌐 **Network Design for TechSavvy Inc** – 3-floor LAN architecture
 
-##Contact 📫
+## 📫 Contact
 - Email: **sithuminaung2468@gmail.com**
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SiThuMinAung&show_icons=true&theme=solarized-light)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=SiThuMinAung&layout=compact&locale=en&theme=solarized-light)
 
-<!--
-**SiThuMinAung/SiThuMinAung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
